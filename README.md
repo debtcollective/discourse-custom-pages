@@ -7,8 +7,6 @@ Installs just like any other Discourse plugin: https://meta.discourse.org/t/inst
 
 These will obviously need to be fixed up with a design from a designer.
 
-These will obviously need to be fixed up with a design from a designer.
-
 List of campaigns:
 ![campaigns](https://user-images.githubusercontent.com/1402948/41445461-9c033d98-6ffe-11e8-82f8-700c0145ca91.png)
 

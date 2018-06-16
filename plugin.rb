@@ -1,3 +1,7 @@
+# name: discourse-custom-pages
+# about: Adds routes/pages that the debtcollective wants
+# version: 0.1
+# authors: Debt Syndicate Developers
 
 register_asset 'stylesheets/common/mods.scss'
 
